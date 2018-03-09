@@ -1,2 +1,2 @@
-
-AWS/hello-world/terraform.tfstate
+terraform.tfvars
+AWS/hello-world/terraform.tfstate*
